@@ -12,11 +12,15 @@
   <a href="https://github.com/ai-workspace-infra/.github"><img src="https://img.shields.io/badge/Profile-README-6B7280?style=for-the-badge" alt="Profile README" /></a>
 </p>
 
+<p align="center">
+  <a href="#中文">中文</a> ｜ <a href="#english">English</a>
+</p>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-## 中文
+## <a id="中文"></a>中文
 
 `ai-workspace-infra` 是 AI Workspace Lab 的基础设施与平台工程组织。我们围绕多云、混合云与本地工作区场景，构建可复用、可观测、可审计、可持续演进的底层能力，让平台服务、开发协作与安全交付在同一套控制面里高效运行。
 
@@ -61,7 +65,7 @@
 </td>
 <td valign="top" width="50%">
 
-## English
+## <a id="english"></a>English
 
 `ai-workspace-infra` is the infrastructure and platform engineering organization behind AI Workspace Lab. We build reusable, observable, auditable, and evolvable foundations for multi-cloud, hybrid-cloud, and local workspace scenarios, so platform services, developer collaboration, and secure delivery can run on one shared control plane.
 
