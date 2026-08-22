@@ -90,11 +90,9 @@ flowchart LR
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## 🇨🇳 <a id="-中文"></a>中文概览
+<details open>
+<summary><h2 style="display: inline;">🇨🇳 中文概览</h2></summary>
+<br/>
 
 `ai-workspace-infra` 是 AI Workspace Lab 的基础设施与平台工程组织。我们围绕多云、混合云与本地工作区场景，构建可复用、可观测、可审计、可持续演进的底层能力，让平台服务、开发协作与安全交付在同一套控制面里高效运行。
 
@@ -110,10 +108,13 @@ flowchart LR
 - **平台服务主页**: [Open-Platform](https://console.svc.plus/products/open-platform)
 - **组织主页**: [GitHub - ai-workspace-infra](https://github.com/ai-workspace-infra)
 
-</td>
-<td valign="top" width="50%">
+</details>
 
-## 🌐 <a id="-english"></a>English Overview
+<br/>
+
+<details>
+<summary><h2 style="display: inline;">🌐 English Overview</h2></summary>
+<br/>
 
 `ai-workspace-infra` is the infrastructure and platform engineering organization behind AI Workspace Lab. We build reusable, observable, auditable, and evolvable foundations for multi-cloud, hybrid-cloud, and local workspace scenarios, enabling unified control, seamless developer collaboration, and secure delivery.
 
@@ -129,9 +130,7 @@ flowchart LR
 - **Platform Homepage**: [Open-Platform](https://console.svc.plus/products/open-platform)
 - **Organization Page**: [GitHub - ai-workspace-infra](https://github.com/ai-workspace-infra)
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
